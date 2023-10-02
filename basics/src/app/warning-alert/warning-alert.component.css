@@ -1,0 +1,8 @@
+p {
+    color: black;
+    font-size: larger;
+    background-color: mistyrose;
+    border: 2px solid red;
+    margin: 10px;
+    padding: 10px;
+}
